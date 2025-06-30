@@ -8,7 +8,7 @@ To evaluate and understand the rate of attrition within the organization and exp
 
 - Data Modeling (Power Query)
 
-- DAX Measures and Calculated Columns
+- Calculated Columns
 
 ### 📈 Key Visuals & KPIs
 Visual Type	Used
